@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+dataset/Harem 2/
+dataset/Harem 1/
+dataset/Mini Harem/
