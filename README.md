@@ -4,7 +4,7 @@
 
 
 
-#### Projeto Final de Curso - Entrega 2: Portuguese NER
+#### Projeto Final de Curso - Entrega 2: Named Entity Reconigtion com BERT nos Datasets Harem
 
 
 
